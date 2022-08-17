@@ -1,0 +1,20 @@
+.atv{
+    padding-top: 50px;
+    color: aliceblue;
+}
+
+.sp{
+    color: aliceblue;
+}
+
+body{
+    background-color:  rgb(79, 79, 79); 
+}
+
+.accordion-item{
+background-color: rgba(128, 128, 128, 0.956);
+}
+.card{
+    background-color:  rgb(79, 79, 79); 
+    color: aliceblue;
+}
